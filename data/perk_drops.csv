@@ -1,0 +1,49 @@
+class_item,perk_column,perk_name,drops
+hunter,1,Assassin,21
+hunter,1,Inmost Light,23
+hunter,1,Ophidian,25
+hunter,1,Renewal,22
+hunter,1,Caliban,24
+hunter,1,Foetracer,26
+hunter,1,Galanor,19
+hunter,1,Dragon,22
+hunter,2,Star Eater,25
+hunter,2,Synthoceps,17
+hunter,2,Verity,19
+hunter,2,Coyote,20
+hunter,2,Wormhusk,26
+hunter,2,Liar,29
+hunter,2,Gryfalcon,24
+hunter,2,Cytarachne,22
+warlock,1,Filaments,18
+warlock,1,Ophidian,22
+warlock,1,Inmost Light,17
+warlock,1,Assassin,16
+warlock,1,Stag,23
+warlock,1,Apotheosis,25
+warlock,1,Osmiomancy,14
+warlock,1,Necrotic,26
+warlock,2,Claw,18
+warlock,2,Swarm,21
+warlock,2,Starfire,20
+warlock,2,Vesper,26
+warlock,2,Harmony,18
+warlock,2,Verity,25
+warlock,2,Synthoceps,11
+warlock,2,Star Eater,22
+titan,1,Bear,35
+titan,1,Abeyant,36
+titan,1,Eternal Warrior,40
+titan,1,Hoarfrost,33
+titan,1,Severance,33
+titan,1,Ophidian,35
+titan,1,Inmost Light,36
+titan,1,Assassin,39
+titan,2,Scars,36
+titan,2,Contact,32
+titan,2,Verity,40
+titan,2,Synthoceps,38
+titan,2,Star Eater,34
+titan,2,Armamentarium,22
+titan,2,Alha Lupi,35
+titan,2,Horn,50
